@@ -1,0 +1,17 @@
+C:\Coding Projects\C#\StudentGradeCalculation\StudentGradeCalculation\bin\Debug\net6.0-windows\StudentGradeCalculation.exe
+C:\Coding Projects\C#\StudentGradeCalculation\StudentGradeCalculation\bin\Debug\net6.0-windows\StudentGradeCalculation.deps.json
+C:\Coding Projects\C#\StudentGradeCalculation\StudentGradeCalculation\bin\Debug\net6.0-windows\StudentGradeCalculation.runtimeconfig.json
+C:\Coding Projects\C#\StudentGradeCalculation\StudentGradeCalculation\bin\Debug\net6.0-windows\StudentGradeCalculation.dll
+C:\Coding Projects\C#\StudentGradeCalculation\StudentGradeCalculation\bin\Debug\net6.0-windows\StudentGradeCalculation.pdb
+C:\Coding Projects\C#\StudentGradeCalculation\StudentGradeCalculation\obj\Debug\net6.0-windows\StudentGradeCalculation.csproj.AssemblyReference.cache
+C:\Coding Projects\C#\StudentGradeCalculation\StudentGradeCalculation\obj\Debug\net6.0-windows\StudentGradeCalculation.Form1.resources
+C:\Coding Projects\C#\StudentGradeCalculation\StudentGradeCalculation\obj\Debug\net6.0-windows\StudentGradeCalculation.csproj.GenerateResource.cache
+C:\Coding Projects\C#\StudentGradeCalculation\StudentGradeCalculation\obj\Debug\net6.0-windows\StudentGradeCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding Projects\C#\StudentGradeCalculation\StudentGradeCalculation\obj\Debug\net6.0-windows\StudentGradeCalculation.AssemblyInfoInputs.cache
+C:\Coding Projects\C#\StudentGradeCalculation\StudentGradeCalculation\obj\Debug\net6.0-windows\StudentGradeCalculation.AssemblyInfo.cs
+C:\Coding Projects\C#\StudentGradeCalculation\StudentGradeCalculation\obj\Debug\net6.0-windows\StudentGradeCalculation.csproj.CoreCompileInputs.cache
+C:\Coding Projects\C#\StudentGradeCalculation\StudentGradeCalculation\obj\Debug\net6.0-windows\StudentGradeCalculation.dll
+C:\Coding Projects\C#\StudentGradeCalculation\StudentGradeCalculation\obj\Debug\net6.0-windows\refint\StudentGradeCalculation.dll
+C:\Coding Projects\C#\StudentGradeCalculation\StudentGradeCalculation\obj\Debug\net6.0-windows\StudentGradeCalculation.pdb
+C:\Coding Projects\C#\StudentGradeCalculation\StudentGradeCalculation\obj\Debug\net6.0-windows\StudentGradeCalculation.genruntimeconfig.cache
+C:\Coding Projects\C#\StudentGradeCalculation\StudentGradeCalculation\obj\Debug\net6.0-windows\ref\StudentGradeCalculation.dll
